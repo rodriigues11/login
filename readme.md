@@ -4,7 +4,7 @@ Este é um projeto de uma página de login responsiva, projetada para oferecer u
 
 ## Demonstração
 
-![Demo](./imgs/demo.png)
+![Demo](./imgs/login.png)
 
 ## Tecnologias Utilizadas
 
@@ -17,12 +17,12 @@ Este é um projeto de uma página de login responsiva, projetada para oferecer u
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/rodriigues03/login-page.git
+   git clone https://github.com/rodriigues11/login.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd login-page
+   cd login
    ```
 
 3. Abra o arquivo `index.html` no seu navegador para visualizar a página de login.
